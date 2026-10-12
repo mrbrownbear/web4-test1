@@ -1,0 +1,1 @@
+{"framework":null,"cleanUrls":true,"headers":[{"source":"/models/(.*)","headers":[{"key":"Cache-Control","value":"public, max-age=604800"},{"key":"Content-Type","value":"model/gltf-binary"}]}]}

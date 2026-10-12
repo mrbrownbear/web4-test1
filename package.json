@@ -1,0 +1,17 @@
+{
+  "name": "majenta-solutions-immersive",
+  "private": true,
+  "version": "3.0.0",
+  "type": "module",
+  "description": "Offline capable Majenta Solutions immersive engineering website. All assets bundled.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "check": "node --check assets/site.js && node --check assets/world-offline.js && node --check server.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
